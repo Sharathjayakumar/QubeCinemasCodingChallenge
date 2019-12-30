@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2019-12-30T10:55:54Z" name="Suite" finished-at="2019-12-30T10:56:11Z" duration-ms="16210">
+    <groups>
+    </groups>
+    <test started-at="2019-12-30T10:55:54Z" name="Test" finished-at="2019-12-30T10:56:11Z" duration-ms="16210">
+      <class name="com.qube.postoffice.api.testcases.SearchByValidBranchName">
+        <test-method signature="searchWithValidBranchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qube.postoffice.api.testcases.SearchByValidBranchName@40a4337a]" started-at="2019-12-30T16:26:05Z" name="searchWithValidBranchTest" data-provider="getData" finished-at="2019-12-30T16:26:07Z" duration-ms="1542" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vepery]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sub Post Office]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Delivery]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tamilnadu]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Chennai City North]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Chennai Region]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Tamil Nadu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[600007]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithValidBranchTest -->
+        <test-method signature="searchWithValidBranchTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qube.postoffice.api.testcases.SearchByValidBranchName@40a4337a]" started-at="2019-12-30T16:26:07Z" name="searchWithValidBranchTest" data-provider="getData" finished-at="2019-12-30T16:26:08Z" duration-ms="1405" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Fort St George]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Sub Post Office]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Delivery]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Tamilnadu]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Chennai City North]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Chennai Region]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Tamil Nadu]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[600009]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithValidBranchTest -->
+      </class> <!-- com.qube.postoffice.api.testcases.SearchByValidBranchName -->
+      <class name="com.qube.postoffice.api.testcases.SearchByValidPINCode">
+        <test-method signature="searchWithValidPINCodeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qube.postoffice.api.testcases.SearchByValidPINCode@54d9d12d]" started-at="2019-12-30T16:25:55Z" name="searchWithValidPINCodeTest" data-provider="getData" finished-at="2019-12-30T16:25:59Z" duration-ms="3589" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[600007]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vepery]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sub Post Office]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Delivery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Tamilnadu]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Chennai City North]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Chennai Region]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Perambur Purasawalkam]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Tamil Nadu]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithValidPINCodeTest -->
+        <test-method signature="searchWithValidPINCodeTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qube.postoffice.api.testcases.SearchByValidPINCode@54d9d12d]" started-at="2019-12-30T16:25:59Z" name="searchWithValidPINCodeTest" data-provider="getData" finished-at="2019-12-30T16:26:00Z" duration-ms="1541" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[600009]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Fort St George]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Sub Post Office]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Delivery]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Tamilnadu]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Chennai]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Chennai City North]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Chennai Region]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Tondiarpet Fort St George]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Tamil Nadu]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[India]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithValidPINCodeTest -->
+      </class> <!-- com.qube.postoffice.api.testcases.SearchByValidPINCode -->
+      <class name="com.qube.postoffice.api.testcases.SearchByInValidBranchName">
+        <test-method signature="searchWithInValidPINCodeTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qube.postoffice.api.testcases.SearchByInValidBranchName@6025e1b6]" started-at="2019-12-30T16:26:08Z" name="searchWithInValidPINCodeTest" data-provider="getData" finished-at="2019-12-30T16:26:09Z" duration-ms="1343" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FlowerBazaar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Error]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[No records found]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithInValidPINCodeTest -->
+        <test-method signature="searchWithInValidPINCodeTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qube.postoffice.api.testcases.SearchByInValidBranchName@6025e1b6]" started-at="2019-12-30T16:26:09Z" name="searchWithInValidPINCodeTest" data-provider="getData" finished-at="2019-12-30T16:26:11Z" duration-ms="1331" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[600001]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Error]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[No records found]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithInValidPINCodeTest -->
+      </class> <!-- com.qube.postoffice.api.testcases.SearchByInValidBranchName -->
+      <class name="com.qube.postoffice.api.testcases.SearchByInValidPINCode">
+        <test-method signature="searchWithInValidPINCodeTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qube.postoffice.api.testcases.SearchByInValidPINCode@6a6cb05c]" started-at="2019-12-30T16:26:00Z" name="searchWithInValidPINCodeTest" data-provider="getData" finished-at="2019-12-30T16:26:02Z" duration-ms="1604" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[0]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Error]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[No records found]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithInValidPINCodeTest -->
+        <test-method signature="searchWithInValidPINCodeTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qube.postoffice.api.testcases.SearchByInValidPINCode@6a6cb05c]" started-at="2019-12-30T16:26:02Z" name="searchWithInValidPINCodeTest" data-provider="getData" finished-at="2019-12-30T16:26:03Z" duration-ms="1537" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[60062]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Error]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[No records found]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithInValidPINCodeTest -->
+        <test-method signature="searchWithInValidPINCodeTest(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qube.postoffice.api.testcases.SearchByInValidPINCode@6a6cb05c]" started-at="2019-12-30T16:26:03Z" name="searchWithInValidPINCodeTest" data-provider="getData" finished-at="2019-12-30T16:26:05Z" duration-ms="1504" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[6]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Error]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[No records found]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchWithInValidPINCodeTest -->
+      </class> <!-- com.qube.postoffice.api.testcases.SearchByInValidPINCode -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
